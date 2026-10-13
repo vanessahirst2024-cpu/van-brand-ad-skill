@@ -6,6 +6,20 @@
 
 ---
 
+## ⚡ 最快用法：整段複製，貼給 Claude Code
+
+```
+請幫我安裝這個 skill，並且在需要時先裝好 HyperFrames：
+https://github.com/vanessahirst2024-cpu/van-brand-ad-skill
+
+裝好之後，用它把這個網址做成一支 30 秒的品牌廣告：
+〔把這裡換成你的網址〕
+```
+
+做出第一版後，不滿意就直接說感覺，例如「不夠有質感」「字太小」「多一點動態」「加上我的品牌色」。
+
+---
+
 ## 你需要
 - **Claude Code**（或其他能裝 skill 的 AI 工具）
 - **Node.js**：到 nodejs.org 下載安裝
